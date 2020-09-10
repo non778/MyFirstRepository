@@ -1,15 +1,2 @@
-# MyFirstRepository
-
-## 중간제목
-
-### 작은제목
-
-Tutoial Repository
-
-__My name is Taewan kim
-
-[naver](https://www.naver.com/)
-
-[png](./png/README.md)
-
-[Raspberrypi](./rpi.md)
+1. 201544004/김태완/A반
+2. 택배
