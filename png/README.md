@@ -10,6 +10,6 @@ __My name is Taewan kim
 
 [naver](https://www.naver.com/)
 
-[png](../README.md)
+[과제](../README.md)
 
 [Raspberrypi](../rpi.md)
